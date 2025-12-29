@@ -2,6 +2,12 @@
 
 A real-time video analytics system that tracks people across two horizontal zones using YOLOv8 for detection and DeepSORT for multi-object tracking.
 
+## Demo
+
+Below is a short demonstration of the Zone-wise People Detection system in action:
+
+![People Detection Demo](People_detection.gif)
+
 ## Features
 
 - **Dual Zone Tracking**: Automatically divides video frame into two zones (A and B)
