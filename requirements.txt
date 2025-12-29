@@ -1,0 +1,7 @@
+opencv
+cv2
+ultralytics
+numpy
+deep_sort_realtime.deepsort_tracker
+streamlit
+tracker
